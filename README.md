@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou Enzo Souza!
 
-<!--
-**souzaenzo380-cmd/souzaenzo380-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação, apaixonado por tecnologia e criação de soluções digitais.
 
-Here are some ideas to get you started:
+Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habilidades em programação, desenvolvimento web e tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 💻 Desenvolvendo projetos próprios
+- 🌐 Interessado em desenvolvimento web
+- 🤖 Explorando automação e inteligência artificial
+- 📚 Sempre aprendendo novas tecnologias
+- 🚀 Buscando transformar ideias em projetos reais
+
+## 🛠️ Tecnologias
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+## 📌 Projetos
+
+### 🎁 Lista de Presentes
+Um projeto web desenvolvido em HTML para criação e organização de uma lista de presentes.
+
+🔗 [Ver projeto](https://github.com/souzaenzo380-cmd/lista-presentes)
+
+---
+
+## 📫 Contato
+
+💻 GitHub: [@souzaenzo380-cmd](https://github.com/souzaenzo380-cmd)
+
+---
+
+⭐ Sempre buscando aprender, criar e evoluir.
